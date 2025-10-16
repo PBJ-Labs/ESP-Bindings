@@ -9,5 +9,17 @@ Thu Oct 16. 2025
 Praise The Lord For My Code
 """
 
+degree = float
+position = float
+
 def ESPBluetoothConnect()-> bool:
-  any()
+  return True or False
+  
+def ESPConnectionStrength(esp)-> float:
+  return esp
+  
+def ESPMotherBoardVersion(esp)-> float:
+  return esp
+  
+def ESPRobotArmRotate(esp)-> float:
+  return esp
