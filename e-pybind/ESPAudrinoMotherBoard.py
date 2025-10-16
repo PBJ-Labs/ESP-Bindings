@@ -22,4 +22,4 @@ def ESPMotherBoardVersion(esp)-> float:
   return esp
   
 def ESPRobotArmRotate(esp, degree)-> float:
-  return esp
+  return degree
