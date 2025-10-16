@@ -21,5 +21,5 @@ def ESPConnectionStrength(esp)-> float:
 def ESPMotherBoardVersion(esp)-> float:
   return esp
   
-def ESPRobotArmRotate(esp)-> float:
+def ESPRobotArmRotate(esp, degree)-> float:
   return esp
